@@ -1,0 +1,6 @@
+module Pods_DentalChat_DentalChatTests {
+  umbrella header "Pods-DentalChat-DentalChatTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
